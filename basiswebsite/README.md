@@ -27,6 +27,7 @@ Don't worry, the code will remain universal. My sanity, however, is a different 
 
 <details open>
   #### Auteur:
+  
 Noob coder, otherwise known as Kevin Kelly
 
   #### Je startniveau:

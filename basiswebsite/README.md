@@ -26,13 +26,13 @@ Don't worry, the code will remain universal. My sanity, however, is a different 
 ## Jij
 
 <details open>
-  #### Auteur:
-  Noob coder, otherwise known as Kevin Kelly
+#### Auteur
+Noob coder, otherwise known as Kevin Kelly
 
-  #### Je startniveau:
+#### Je startniveau
 Baby blauw
 
-  #### Je focus:
+#### Je focus
 Surface plane, yeehaw
 </details>
 

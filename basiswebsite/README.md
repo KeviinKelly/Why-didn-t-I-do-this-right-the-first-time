@@ -55,7 +55,7 @@ Home-page
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Fragrance finder
-  <img src=images"Fragrance_finder" width="375px" alt="omschrijving van de pagina">
+  <img src=images"Fragrance_finder.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 

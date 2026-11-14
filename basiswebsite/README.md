@@ -1,29 +1,39 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Welcome to my literal hell.
 
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
+Well, here we go again. Round two of me personally beefing with HTML and CSS, slowly losing my sanity, and questioning every life decision that led me here.
 
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
+Consider this Markdown file your front-row ticket to the chaos. A documentary, if you will, of my struggles, breakdowns, questionable coding decisions, and (hopefully) eventual character development.
 
+Throughout this journey, you'll witness me go from absolutely clueless to slightly less clueless. I'll be documenting my progress, the things I learn, the things I break, and every time I inevitably crash out over a missing semicolon.
 
+So sit back, grab some popcorn, and enjoy the show.
 
+May the CSS gods have mercy on my soul.
 
+*A little heads-up before we get into it.
+
+As you can probably tell, you're currently reading English. Which, I suppose, is a little odd.
+
+Geboren en getogen op Aruba, heb ik inmiddels vier talen tegelijkertijd rondspoken in mijn hoofd. Switching between them is basically part of my operating system at this point.
+
+Omdat ik dit verslag zo persoonlijk mogelijk wil houden, ga ik mijn proces lekker in beide talen documenteren. Soms Nederlands, soms Engels, soms waarschijnlijk een chaotische combinatie van allebei.
+
+Basically, whatever language gets the job done and best captures whatever is going on inside my head at that particular moment.
+
+Don't worry, the code will remain universal. My sanity, however, is a different story.
 
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
-
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+Noob coder, otherwise known as Kevin Kelly
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+Baby blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+Surface plane, yeehaw
 </details>
 
 
@@ -33,18 +43,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
-
+Aesop
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.aesop.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home-page
+  <img src="Homepage.png" width="375px" alt="Landingspagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Fragrance finder
+  <img src="Fragrance_finder" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -56,7 +65,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+Wat mij is opgevallen:
 
 </details>
 

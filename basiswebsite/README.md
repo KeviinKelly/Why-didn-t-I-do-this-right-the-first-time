@@ -26,7 +26,7 @@ Don't worry, the code will remain universal. My sanity, however, is a different 
 ## Jij
 
 <details open>
-  ### Auteur:
+  #### Auteur:
 Noob coder, otherwise known as Kevin Kelly
 
   #### Je startniveau:

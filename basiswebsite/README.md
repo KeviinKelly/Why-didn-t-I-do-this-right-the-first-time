@@ -45,16 +45,17 @@ Surface plane, yeehaw
 
 <details open>
 Aesop
+ 
   ### Je opdracht:
   https://www.aesop.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Home-page
-  <img src="Homepage.png" width="375px" alt="Landingspagina">
+  <img src="images/Homepage.png" width="375px" alt="Landingspagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Fragrance finder
-  <img src="Fragrance_finder" width="375px" alt="omschrijving van de pagina">
+  <img src=images"Fragrance_finder" width="375px" alt="omschrijving van de pagina">
  
 </details>
 

@@ -92,18 +92,21 @@ Wat mij is opgevallen:
 <details>
 
   ### de hele pagina: 
- 
+ <summary>breakdown homepage 1</summary>
   <img src="images/homepage schets1@2x.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="images/homepage schets2@2x.png" width="375px" alt="breakdown van de hele pagina">
+
+  <summary>breakdown homepage 2</summary>
+
+  <img src="images/hompage schets2@2x.png" width="375px" alt="breakdown van de hele pagina">
 
 
   ### dynamisch deel: 
 
   <img src="images/ff schets@2x.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
+  ### wellicht nog een dynamisch deel(pop up): 
 
-  <img src="images/poop up schets@2x.png" alt="breakdown van nog een dynamisch deel">
+  <img src="images/pop up schets@2x.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 

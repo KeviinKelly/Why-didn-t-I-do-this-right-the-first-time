@@ -92,13 +92,15 @@ Wat mij is opgevallen:
 <details>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/homepage schets1@2x.png" width="375px" alt="breakdown van de hele pagina">
+    <img src="images/homepage schets2@2x.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
+  ### dynamisch deel: 
+  <img src="images/ff schets@2x.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="images/poop up schets@2x.png" alt="breakdown van nog een dynamisch deel">
 
 </details>
 

@@ -64,8 +64,16 @@ Aesop
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+ <summary>wcag pagina 1</summary>
+  <img src="images/w1.jpg" width="375px" alt="wcag pagina 1">
+   <summary>wcag pagina 2</summary>
+  <img src="images/w2.jpg" width="375px" alt="wcag pagina 2">
+   <summary>wcag pagina 3</summary>
+  <img src="images/w3.jpg" width="375px" alt="wcag pagina 3">
+   <summary>wcag pagina 4</summary>
+  <img src="images/w4.jpg" width="375px" alt="wcag pagina 4">
+   <summary>wcag pagina 5</summary>
+  <img src="images/w5.jpg" width="375px" alt="wcag pagina 5">
   ### Bevindingen
 Wat mij is opgevallen:
 

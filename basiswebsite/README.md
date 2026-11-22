@@ -74,8 +74,14 @@ Aesop
   <img src="images/w4.jpg" width="375px" alt="wcag pagina 4">
    <summary>wcag pagina 5</summary>
   <img src="images/w5.jpg" width="375px" alt="wcag pagina 5">
-  ### Bevindingen
+  
 Wat mij is opgevallen:
+<ul>
+  <li>Fix horizontal scrolling on mobile.</li>
+  <li>Add dark mode.</li>
+  <li>Add high-contrast support.</li>
+  <li>Validate the HTML through validator.w3.org with "Validate by direct input", since the 403 blocked the URL check, and validate your own build too.</li>
+</ul>
 
 </details>
 
